@@ -16,3 +16,7 @@ es la versión de desarrollo.
 Adicionalmente agrego la url del deploy de dich aplicación
 
 | http://codigomexicano.com/lucioSantes/Control/public/ |
+
+Adicionalmente agrego sub carpeta llamada BD, la cual tiene la base de datos de desarrollo
+dicha base tiene datos de usuarios aleatorios y es opcional para poder hacer uso de la misma
+
