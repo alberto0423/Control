@@ -13,9 +13,9 @@ despues de registrarse e iniciar sesión, particularmente en la sección de "edi
 El proposito de esta aplicación es la demsotración de un CRUD, por lo cual esta versión
 es la versión de desarrollo.
 
-Adicionalmente agrego la url del deploy de dich aplicación
+Adicionalmente agrego la url del deploy de dicha aplicación
 
-| http://codigomexicano.com/lucioSantes/Control/public/ |
+| http://pacific-escarpment-34092.herokuapp.com/login |
 
 Adicionalmente agrego sub carpeta llamada BD, la cual tiene la base de datos de desarrollo
 dicha base tiene datos de usuarios aleatorios y es opcional para poder hacer uso de la misma
