@@ -12,3 +12,7 @@ despues de registrarse e iniciar sesión, particularmente en la sección de "edi
 
 El proposito de esta aplicación es la demsotración de un CRUD, por lo cual esta versión
 es la versión de desarrollo.
+
+Adicionalmente agrego la url del deploy de dich aplicación
+
+| http://codigomexicano.com/lucioSantes/Control/public/ |
